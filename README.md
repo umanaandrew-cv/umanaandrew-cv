@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umanaandrew-cv
-- 👀 I’m interested in Computer Vision and Machine Learning
+- 👀 I’m interested in Computer Vision, Firmware Engineering, and Machine Learning
 - 🌱 I’m currently studying Computer Engineering
-- 💞️ I’m looking to collaborate on Computer Vision Projects
+- 💞️ I’m looking to collaborate
 - 📫 aumana@usf.edu | (407)680-7070
 
 <!---
